@@ -1,34 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="resto:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4b7f7f8-5050-477b-b8cd-a5fb2aaf1d37" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/resto_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/resto_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/ConfirmActionServlet/ConfirmAjout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/ConfirmActionServlet/ConfirmAjout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/ConfirmActionServlet/ConfirmModif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/ConfirmActionServlet/ConfirmModif.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/ConfirmActionServlet/ConfirmSupress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/ConfirmActionServlet/ConfirmSupress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/DAO/DbConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/DAO/DbConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/DAO/RecetteDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/DAO/RecetteDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/DAO/RestaurantDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/DAO/RestaurantDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/DAO/TypeRecetteDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/DAO/TypeRecetteDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/DetailResto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/DetailResto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/FormAjout/AjoutPlat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/FormAjout/AjoutPlat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/FormAjout/AjoutResto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/FormAjout/AjoutResto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/FormModif/ModifierRecette.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/FormModif/ModifierRecette.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/FormModif/ModifierResto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/FormModif/ModifierResto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/ListeRecherche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/ListeRecherche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/Model/Recette.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/Model/Recette.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/Model/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/Model/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/Model/TypeRecette.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/Model/TypeRecette.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/resto/SupprimerAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/resto/SupprimerAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="294T2YZoepK6X3NUSgggx8JYH3R" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maxou\Desktop\resto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.58" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.58" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="resto:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/resto_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="09ac1609-76e4-4995-8068-d7ed1b01a57f" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55808" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="resto:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,8 +154,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652371153443</updated>
-      <workItem from="1652371154976" duration="3000" />
+      <workItem from="1652371154976" duration="921000" />
+      <workItem from="1652454071373" duration="10000" />
+      <workItem from="1652633576860" duration="18526000" />
+      <workItem from="1652900770366" duration="32588000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
